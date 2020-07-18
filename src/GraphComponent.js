@@ -5,7 +5,7 @@ import {
 
 var _ = require('lodash')
 
-export default class GraphComponent extends Component {
+export default class GraphComponent extends Component { 
     state = {
         aggregated: null
     }
