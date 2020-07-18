@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/carlson_covid/static/css/main.c416f8e3.chunk.css",
+    "main.js": "/carlson_covid/static/js/main.ef53f0d2.chunk.js",
+    "main.js.map": "/carlson_covid/static/js/main.ef53f0d2.chunk.js.map",
+    "runtime-main.js": "/carlson_covid/static/js/runtime-main.9e6a09ef.js",
+    "runtime-main.js.map": "/carlson_covid/static/js/runtime-main.9e6a09ef.js.map",
+    "static/js/2.85e6b163.chunk.js": "/carlson_covid/static/js/2.85e6b163.chunk.js",
+    "static/js/2.85e6b163.chunk.js.map": "/carlson_covid/static/js/2.85e6b163.chunk.js.map",
+    "index.html": "/carlson_covid/index.html",
+    "precache-manifest.9bb89b5f02ce26fd4d8ed6a4cf986a08.js": "/carlson_covid/precache-manifest.9bb89b5f02ce26fd4d8ed6a4cf986a08.js",
+    "service-worker.js": "/carlson_covid/service-worker.js",
+    "static/css/main.c416f8e3.chunk.css.map": "/carlson_covid/static/css/main.c416f8e3.chunk.css.map",
+    "static/js/2.85e6b163.chunk.js.LICENSE.txt": "/carlson_covid/static/js/2.85e6b163.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/carlson_covid/static/media/logo.76537688.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e6a09ef.js",
+    "static/js/2.85e6b163.chunk.js",
+    "static/css/main.c416f8e3.chunk.css",
+    "static/js/main.ef53f0d2.chunk.js"
+  ]
+}
